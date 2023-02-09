@@ -1,0 +1,8 @@
+{
+  "tasks": {
+  },
+  "imports":{
+    "std/": "https://deno.land/std@0.176.0/",
+    "zod": "https://deno.land/x/zod@v3.20.2/mod.ts"
+  }
+}
